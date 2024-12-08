@@ -1,0 +1,8 @@
+101, 'Python Programming', 'John Dee', 'Available'
+102, 'Data Science Essentials', 'Jane Smith', 'Available'
+103, 'Machine Learning', 'Alan Turing', 'Available'
+104, 'Artificial Intelligence', 'Marvin Minsky', 'Available'
+105, 'Deep Learning', 'Yann LeCun', 'Not Available'
+106, 'Natural Language Processing', 'Christopher Manning', 'Available'
+107, 'Statistics For Data Science', 'David C. Hsu', 'Available'
+108, 'Python for Data Analysis', 'Wes McKinney', 'Avaiable'
